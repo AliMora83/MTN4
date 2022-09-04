@@ -33,7 +33,7 @@ function App() {
               src="/logo.png"
               alt="Logo"
             />
-            Teacher | Create Task
+            Teacher | Create Tasks
           </Navbar.Brand>
         </Container>
       </Navbar>
