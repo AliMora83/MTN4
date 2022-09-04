@@ -58,7 +58,7 @@ const BooksList = ({ getBookId }) => {
             return (
               <tr key={doc.id}>
                 <td>{index + 1}</td>
-                <td>{doc.subject}</td>
+                <td>{doc.title}</td>
                 <td>{doc.author}</td>
                 <td>{doc.status}</td>
                 <td>{doc.date}</td>
